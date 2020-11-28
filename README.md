@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+ hi people!
+ its marium ...i m studying software engineering.!
