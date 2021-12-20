@@ -1,3 +1,2 @@
 # hello-world
- hi people!
- its marium ...i m studying software engineering.!
+HELLO EVERYONE THIS IS MARIUM AMIR ,I M A SECOND YEAR SOFTWARE ENGINEERING STUDENT.
